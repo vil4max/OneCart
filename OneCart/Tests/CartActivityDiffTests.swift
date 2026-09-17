@@ -3,7 +3,7 @@ import Foundation
 import XCTest
 
 final class CartActivityDiffTests: XCTestCase {
-    private let myName = "Timur"
+    private let myName = "Alex"
     private let partnerName = "Maria"
 
     func testFirstSnapshotSeedsWithoutNotify() {
